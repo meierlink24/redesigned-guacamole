@@ -1,0 +1,12 @@
+#content{
+    align-items: center;
+    max-width: 80%;
+    background-color: rgb(247, 0, 0);;
+    margin-left: 10%;
+}
+
+.header_1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
